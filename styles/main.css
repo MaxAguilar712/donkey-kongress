@@ -1,0 +1,13 @@
+
+
+.bio__name {
+    display: flex;
+    justify-content: center;
+    font-size: 80px;
+    background: -webkit-linear-gradient(#f20000, #f20000, #f20000, #ffffff, #2600ff, #2600ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+};
+.eagle{
+    display: flex;
+};
